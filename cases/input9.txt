@@ -1,0 +1,6 @@
+1Rich(Me)4
+phd(x) => high(x)
+~phd(x) => Ear(x)
+high(x) => Rich(x)
+Ear(x) => Rich(x)	
+

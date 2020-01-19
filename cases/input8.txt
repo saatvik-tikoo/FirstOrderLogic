@@ -1,0 +1,5 @@
+2parent(Art,Jon)
+~parent(Art,Jon)3father(x,y) => parent(x,y)
+father(Art,Jon)
+father(Bob,Kim)	
+

@@ -1,0 +1,2 @@
+2Take(Alice,NSAIDs)
+~Take(Alice,NSAIDs)2Take(x,Warfarin) => ~Take(x,NSAIDs)Take(Alice,Warfarin)

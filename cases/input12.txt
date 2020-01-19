@@ -1,0 +1,11 @@
+4
+Parent(Tom,x)
+~Parent(Tom,x)
+Father(Tom,s)
+~Father(Tom,s)5
+Parent(x,y) & Male(x) => Father(x,y)
+Father(x,y) & Father(x,z) => Sibling(y,z)
+Parent(Tom,John)
+Male(Tom)
+Parent(Tom,Fred)	
+
